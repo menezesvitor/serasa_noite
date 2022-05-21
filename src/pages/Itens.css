@@ -1,8 +1,5 @@
 main{
-    border: 8px double black;
-    width: 200px;
-    margin: 50px;
-    background: radial-gradient(circle, rgba(156,219,136,1) 0%, rgba(148,187,233,1) 100%);
+    background: rgb(255, 134, 134);
   
 } 
 
